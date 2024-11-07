@@ -7,7 +7,6 @@ This project aims to develop a predictive model for wildfire occurrences in Cali
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
 - [Data Sources](#data-sources)
 - [Modeling Approach](#modeling-approach)
 - [Results](#results)
